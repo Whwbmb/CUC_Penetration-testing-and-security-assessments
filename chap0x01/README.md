@@ -97,7 +97,7 @@ ip地址、域名、邮箱、电话等敏感信息，可能会导致被钓鱼攻
 
   `budget site:dhs.gov filetype:xls OR filetype:csv`
 
-  ![dork-1-3](./img_1_1/dork-1-3.png)
+  ![dork-1-3](./img_1/dork-1-3.png)
 
   #### `dorking` 实战2 —— 伦敦房价
   `filetype:xls "house prices" AND "London"`
